@@ -6,7 +6,7 @@ Will be announced soon...
 
 | Token Name |   Network  | Initial Supply | Debase Rate (per block) | Rewards (per block) |
 | :--------: | :--------: | :------------: | :---------------------: | :-----------------: |
-|    GARY    | PulseChain |   369,000,000  |          0.001%         |      10 million     |
+|    GARY    | PulseChain |   369,000,000  |          0.001%         |         1000        |
 
 ### Rewards
 
@@ -20,7 +20,7 @@ Depositing or claiming will incur 24 hours lock on withdrawals. Depositing or cl
 
 At a certain point, Degens Care will transfer ownership of all contracts to a Timelock contract, which will delay all changes 3 days before contract updates become live on the blockchain.
 
-* [GARY token Contract (opens in a new tab)](https://etherscan.io/token/0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0)
-* [GaryFactory Contract (New) (opens in a new tab)](https://etherscan.io/address/0x26f50a09fb6c7b4917f07947dab59be5d5064c22)
-* [RichardIsAlwaysRight Contract (opens in a new tab)](https://etherscan.io/address/0x98d9f08824798d7fd37bd0dd740069baf31c37e7)
-* [Timelock Contract (opens in a new tab)](https://etherscan.io/address/0x70dcd5cafdfc982bccafa97091f6bca29859149a)
+* [GARY token Contract (opens in a new tab)](https://scan.v3.testnet.pulsechain.com/address/0x8aAC5570d54306Bb395bf2385ad327b7b706016b)
+* [GaryFactory Contract (New) (opens in a new tab)](https://scan.v3.testnet.pulsechain.com/address/0xA75E74a5109Ed8221070142D15cEBfFe9642F489)
+* [RichardIsAlwaysRight Contract (opens in a new tab)](https://scan.v3.testnet.pulsechain.com/address/0x64f5219563e28EeBAAd91Ca8D31fa3b36621FD4f)
+* Timelock Contract

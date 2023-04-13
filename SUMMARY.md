@@ -8,7 +8,7 @@
 
 ## Links
 
-* [Website](https://degens.care)
+* [Website](https://degenscare.vercel.app/)
 * [CoinGecko](https://degens.care)
 * [Discord](https://discord.gg/PZTHf9qs8U)
 * [Twitter](https://twitter.com/DegensCare)
