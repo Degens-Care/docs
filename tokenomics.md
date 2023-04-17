@@ -18,9 +18,14 @@ Depositing or claiming will incur 24 hours lock on withdrawals. Depositing or cl
 
 ### Contracts
 
-Soon after launch, Degens Care will transfer ownership of all contracts to a Timelock contract, which will delay all changes 3 days before contract updates become live on the blockchain. All minting and rebasing privledges will be revoked.
+The official contract addresses are:
 
 * [GARY Contract](https://scan.v3.testnet.pulsechain.com/address/0x8aAC5570d54306Bb395bf2385ad327b7b706016b): 0x8aAC5570d54306Bb395bf2385ad327b7b706016b
 * [GaryFactory Contract](https://scan.v3.testnet.pulsechain.com/address/0xA75E74a5109Ed8221070142D15cEBfFe9642F489): 0xA75E74a5109Ed8221070142D15cEBfFe9642F489
 * [RichardHeartIsAlwaysRight Contract](https://scan.v3.testnet.pulsechain.com/address/0x64f5219563e28EeBAAd91Ca8D31fa3b36621FD4f): 0x64f5219563e28EeBAAd91Ca8D31fa3b36621FD4f
+
+Degens Care has transferred ownership of all contracts to a Timelock contract, which will delay all changes 3 days before any contract admin state updates become live on the blockchain. And all minting and rebasing privileges are revoked for deployer:
+
 * [Timelock Contract](https://scan.v3.testnet.pulsechain.com/address/0xd3b893cd083f07Fe371c1a87393576e7B01C52C6): 0xd3b893cd083f07Fe371c1a87393576e7B01C52C6
+* renounce tx1: TBD
+* renounce tx2: TBD
