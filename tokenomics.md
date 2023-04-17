@@ -27,5 +27,5 @@ The official contract addresses are:
 Degens Care has transferred ownership of all contracts to a Timelock contract, which will delay all changes 3 days before any contract admin state updates become live on the blockchain. And all minting and rebasing privileges are revoked for deployer:
 
 * [Timelock Contract](https://scan.v3.testnet.pulsechain.com/address/0xd3b893cd083f07Fe371c1a87393576e7B01C52C6): 0xd3b893cd083f07Fe371c1a87393576e7B01C52C6
-* renounce tx1: TBD
-* renounce tx2: TBD
+* [renounce MINTER\_ROLE](https://scan.v3.testnet.pulsechain.com/tx/0xcc971597d2ef396bb3064f2304799df9c6a6bf9edb46be14e53ffc57e6bbd153)
+* [renounce REBASER\_ROLE](https://scan.v3.testnet.pulsechain.com/tx/0x3e29efae74bced0525b4e92c268564e5152de99c11e8ed8667e77c20e4a54863/)
