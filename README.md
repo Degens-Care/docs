@@ -2,11 +2,11 @@
 
 ### What is Gary? 🥚
 
-GARY is an experiment in DeFi. The Gary Genslers of the world have been running the show for far too long. GARY gets debased every block so its time to lock him up.
+GARY is an experiment in DeFi. The Gary Genslers of the world have been running the show for far too long. GARY gets debased every block. It's time to lock him up.
 
 #### **What consequences does the debase have?**
 
-GARY participates in the revolutionary new era of debase tokens. The debase will increase the value of your GARY automatically if no one is selling. How is that possible? Debase affects the GARY that are in the LP, therefore the number of GARY in the LP will decrease over time while the amount of HEX remains constant.
+The debase will increase the value of your GARY automatically if no one is selling. Debase affects the GARY that are in the LP, therefore the number of GARY in the LP will decrease over time while the amount of PLS remains constant.
 
 ### What do you do with GARY?
 

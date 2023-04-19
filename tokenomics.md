@@ -2,11 +2,16 @@
 
 ### Tokenomics
 
-Will be announced soon...
-
 | Token Name |   Network  | Initial Supply | Debase Rate (per block) | Rewards (per block) |
 | :--------: | :--------: | :------------: | :---------------------: | :-----------------: |
 |    GARY    | PulseChain |   369,000,000  |          0.001%         |         1000        |
+
+* 49% to Hex OA Address
+* 6% for Hexican Legal Fees Fund
+  * this fund supports Hexicans in their ongoing battle with the SEC (i.e. Hexologist)
+* 9% to Dev aka The Commissioner
+* 36% Initial LP (GARY / PLS)
+  * LP token will be burned
 
 ### Rewards
 
