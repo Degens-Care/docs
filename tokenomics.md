@@ -7,6 +7,7 @@
 |    GARY    | PulseChain |   369,000,000  |          0.001%         |         1000        |
 
 * 49% to Hex OA Address
+  * We encourage the OA to donate this portion to the SENS Research Foundation.
 * 6% for Hexican Legal Fees Fund
   * this fund supports Hexicans in their ongoing battle with the SEC (i.e. Hexologist)
 * 9% to Dev aka The Commissioner
